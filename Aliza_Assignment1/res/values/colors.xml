@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="circle1">#B9E4DA</color>
+    <color name="bgcolor">#C8EBE4</color>
+    <color name="background">#DDF7F7</color>
+    <color name="title1">#3AB2B9</color>
+    <color name="tiitlee2">#F1BE09</color>
+    <color name="text">#157177</color>
+    <color name="grey">#AAA6A6</color>
+    <color name="lightg">#EFF3F2</color>
+    <color name="yello">#EEE8C6</color>
+    <color name="grene">#3EAC00</color>
+    <color name="radred">#A60606</color>
+    <color name="lightee">#EFF3F2</color>
+    <color name="ggr">#C2BEBE</color>
+</resources>
